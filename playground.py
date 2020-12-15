@@ -37,11 +37,6 @@ def perturb_board(board):
     return board
 
 
-def show_board(board):
-    plt.imshow(board)
-    plt.draw()
-
-
 def step(n):
     global BOARD
     if n == 0:
