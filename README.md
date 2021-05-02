@@ -7,11 +7,7 @@ Run
 ```python conway.py --size 9 --frames 50 --wait 100``` to generate 50 frames on a board of size 9×9 with a 100 ms pause between frames.
 
 ## Examples
-### Random:
-![](images/random.gif)
-### Glider:
-![](images/glider.gif)
-### Blinker:
-![](images/blinker.gif)
-### Out of Bounds:
-![](images/oob.gif)
+### Random: ![](images/random.gif)
+### Glider: ![](images/glider.gif)
+### Blinker: ![](images/blinker.gif)
+### Out of Bounds: ![](images/oob.gif)
